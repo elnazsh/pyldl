@@ -1,10 +1,10 @@
 # pyldl - Linear Discriminative Learning in Python  
 
-pyldl is an implementation of Linear Discriminative Learning [1] in Python. It was created to perform single word recognition from audio files.
+`pyldl` is an implementation of Linear Discriminative Learning [1] in Python. It was created to perform single word recognition from audio files.
 
 ## Authors and Contributers
 
-pyldl was mainly developed by Elnaz Shafaei-Bajestan and Masoumeh Moradipour Tari.
+`pyldl` was mainly developed by Elnaz Shafaei-Bajestan and Masoumeh Moradipour Tari.
 
 ## Reference
 
